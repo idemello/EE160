@@ -1,0 +1,73 @@
+/* temptbl.c algorithim
+
+Given:starting and ending temperatures in degrees fahrenheit
+Output: The number of tables lines printed
+
+//Include Libraries
+
+//Prototypes: Temp table()
+            Tocelsius()
+
+//main()
+
+//declare variables
+
+//prompt user for two values which are the starting( Fi) and ending fahrenheit values (Ff)
+
+
+//initialize loop, loop conditions while(%f != %f)
+
+//temptable()
+
+//Prompt user for values
+
+//Temptable ()
+
+//Given user values
+
+//initialize loop, loop conditions while (F != Ff)
+
+//Fi = Fi
+
+//tocelsius()
+
+//Formula
+
+//Fi + 5
+
+
+//Tocelsius()
+//Formula
+
+
+//account.c algorightim
+
+/* Input: Initial Investment, # of years, interest rate
+   Output: Accumulated value
+*/
+
+//Library Inclusion
+
+//prototypes
+
+//begin main
+
+//declare variables
+
+//prompt user for inputs
+//initialize while loop A
+   //loop conditions loop ends when acc amt entered = 0
+
+//initialize while loop B
+   //loop conditions loop ends i = #of years inputted
+
+//call function calc_acc_amt
+//end while loop B
+
+//end while loop A, before loop ends prompt user again
+
+//end main
+
+//function float calc_acc_amt(float acc_amount, float annual_interest, int year;
+acc_amount = acc_amount + acc_amount * annual_interest
+

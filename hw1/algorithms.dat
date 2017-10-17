@@ -1,0 +1,69 @@
+Name: Isaac DeMello, Kyle, Woojin
+File: war.c algorithm
+
+Given: Two players
+Output: 2 Random numbers associated with each player, the player with the higher number wins
+
+//macros 
+TRUE 1
+FALSE 0
+//Begin Main
+
+//Delcare variables
+
+//Begin while loop A
+	//loop condition (loop if 1 is entered reinitialize loop, if 0 is entered end
+
+//Initialize a random # generator that will give 2 numbers
+// on seperate lines
+	//#1 is player A
+	//#2 is player B
+//print result
+//prompt user if they would like to play again
+
+Name: Isaac DeMello, Kyle, Woojin
+File: blackjack.c
+
+//includes
+//macros
+//prototypes
+
+//Begin Main
+
+//Declare variables
+
+//Begin while loop A, ends when user inputs 0
+	
+	//call random card for both player and dealer
+		//total of 4 cards, dealer has 1 hidden card
+	//total player cards
+	//show value of ONE dealer card
+	
+	//Begin while loop B, ends when user chooses to stand
+		//prompt user to add another card or stand
+	
+		//if user goes over 21 game is over, lose
+		//if user gets 21 without hitting game is over, win
+		//if user no longer wants to hit go to dealers turn
+	//End while loop B
+	
+	//reset certai variables
+	
+	//Begin while loop C
+		//Dealer reveals hidden card
+		//Dealer total is displayed
+		//if dealer total is < 16 dealer must draw another card
+		//if dealer goes over 21 game is over , win
+		//if dealer total is > 16 and < 21, end while loop C
+	// then dealer value compared with player
+	//higher total wins game
+
+	//prompt user to play again
+//End while loop A
+//End main
+
+//Random card function
+//face card function
+
+	
+
